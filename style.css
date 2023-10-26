@@ -1,10 +1,13 @@
 #titulo {
-    color: red;
+    color:#618264;
     text-align: center;
     font-size: 40px;
 }
+body {
+    background-color: #D0E7D2;
+}
 .texto {
-    color: purple;
+    color: #B0D9B1);
     text-align: center;
     font-size: 35px;
 }
