@@ -3,14 +3,22 @@
     text-align: center;
     font-size: 40px;
 }
-.texto {
-    color: #B0D9B1;
+.Título {
+    color: #2B2A4C;
     text-align: center;
     font-size: 35px;
+    background-color: aliceblue;
 }
-.div class="texto"{
-   background-color: #7ED7C1
+.conteudo {
+    color: #B31312;
+    text-align: center;
+    font-size: 35px;
+    background-color: azure;
 }
-.div conteúdo principal {
-    background-color : #F0DBAF
+.listas {
+    color: #644040;
+    text-align: center;
+    font-size: 35px;
+    background-color: beige;
+}
 }
