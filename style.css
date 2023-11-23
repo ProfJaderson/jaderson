@@ -7,17 +7,17 @@
     color: #2B2A4C;
     text-align: center;
     font-size: 35px;
-    background-color: aliceblue;
+    background-image:linear-gradient(#9AD0C2, #2D9596);
 }
 .conteudo {
     color: #B31312;
     text-align: center;
     font-size: 35px;
-    background-color: azure;
+    background-image: linear-gradient(#EEF296, #9ADE7B);
 }
 .listas {
     color: #644040;
     text-align: center;
     font-size: 35px;
-    background-color: beige;
+    background-image: linear-gradient(#AF2655, #A3B763);
 }
